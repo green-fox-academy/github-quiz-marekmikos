@@ -1,6 +1,6 @@
 # Your personal details
 ### First name: Marek
-### Last name:
+### Last name: Mikos
 
 
 ## 1. Which of the descriptions below accurately describes Git?
